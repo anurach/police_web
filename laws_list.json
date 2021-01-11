@@ -1,0 +1,5 @@
+[
+  {"id":1,"canRemove":true,"usable":false,"type":"item_money","limit":-1,"name":"cash","rare":false,"count":1039573,"label":"Cash"},
+  {"id":2,"canRemove":true,"usable":false,"count":183925,"limit":-1,"name":"black_money","rare":false,"type":"item_account","label":"Dirty Money"},
+  {"type":"item_standard","usable":true,"count":67,"name":"ammo_pistol","rare":false,"limit":10,"id":3,"canRemove":true,"label":"Ammo Pistol x24"}
+]
